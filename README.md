@@ -7,15 +7,8 @@ Dr. Daniela Alejandra González
 
 ## Course Overview
 
-This repository contains assignments, projects, and coursework completed during the Generative AI course at Northeastern University. The course provides comprehensive coverage of state-of-the-art generative AI technologies, including large language models, prompt engineering, AI-powered applications, and responsible AI practices.
+This repository contains assignments, projects, and coursework completed during the Generative AI course at Northeastern University.
 
-## Learning Objectives
-
-- Understanding foundational concepts of generative AI and large language models
-- Developing proficiency in prompt engineering and AI interaction techniques
-- Building practical applications using modern AI tools and frameworks
-- Implementing responsible AI practices and ethical considerations
-- Exploring real-world applications across various industries
 
 ## Repository Structure
 
